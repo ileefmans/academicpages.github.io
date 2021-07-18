@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ian Leefmans / Personal Site"
+title                    : "Ian Leefmans / Site"
 title_separator          : "-"
 name                     : &name "Ian Leefmans"
 description              : &description "insert my description here"
