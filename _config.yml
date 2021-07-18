@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ian Leefmans / Site"
+title                    : "Ian Leefmans / Personal Site"
 title_separator          : "-"
 name                     : &name "Ian Leefmans"
 description              : &description "insert my description here"
@@ -237,13 +237,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  #- scope:
-      #path: ""
-      #type: talks
-    #values:
-      #layout: talk
-      #author_profile: true
-      #share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
